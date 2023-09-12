@@ -15,10 +15,6 @@ Due to confidentiality issues, the original features of the dataset have been pr
 
 ## Exercise
 
-🎯 You are a Data Scientist for a bank. You are asked to develop a model that is able to detect at least 95% of fraudulent transactions. Go!
-
-To start the exercise, open `Bonus.ipynb` in `jupyter notebook` and follow the instructions.
-
-🚀 Your turn!
+🎯 As a Data Scientist for a bank. I was asked to develop a model that is able to detect at least 95% of fraudulent transactions.
 
 
